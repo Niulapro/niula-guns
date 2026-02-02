@@ -1,0 +1,200 @@
+Uri: https://assets.guns.lol/cursor-effects.js
+File Name: C:\Downloaded Web Sites\guns.lol\cursor-effects.js
+Content Type: text/javascript
+
+Uri: https://assets.guns.lol/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\guns.lol\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://assets.guns.lol/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\guns.lol\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://assets.guns.lol/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\guns.lol\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://assets.guns.lol/favicon/site.webmanifest
+File Name: C:\Downloaded Web Sites\guns.lol\favicon\site.webmanifest
+Content Type: 
+
+Uri: https://assets.guns.lol/fonts/X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.css
+File Name: C:\Downloaded Web Sites\guns.lol\fonts\X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.css
+Content Type: text/css
+
+Uri: https://assets.guns.lol/fonts/X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.ttf
+File Name: C:\Downloaded Web Sites\guns.lol\fonts\X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.ttf
+Content Type: font/ttf
+
+Uri: https://assets.guns.lol/fonts/X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.woff
+File Name: C:\Downloaded Web Sites\guns.lol\fonts\X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.woff
+Content Type: application/font-woff
+
+Uri: https://assets.guns.lol/fonts/X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.woff2
+File Name: C:\Downloaded Web Sites\guns.lol\fonts\X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.woff2
+Content Type: font/woff2
+
+Uri: https://assets.guns.lol/sparkle_white.gif
+File Name: C:\Downloaded Web Sites\guns.lol\sparkle_white.gif
+Content Type: image/gif
+
+Uri: https://challenges.cloudflare.com/turnstile/v0/b/d251aa49a8a3/api.js
+File Name: C:\Downloaded Web Sites\guns.lol\turnstile\v0\b\d251aa49a8a3\api.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Onest:wght@300;400;500&display=swap
+File Name: C:\Downloaded Web Sites\guns.lol\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/onest/v9/gNMZW3F-SZuj7zOT0IfSjTS16cPh9R-Zsg.ttf
+File Name: C:\Downloaded Web Sites\guns.lol\s\onest\v9\gNMZW3F-SZuj7zOT0IfSjTS16cPh9R-Zsg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/onest/v9/gNMZW3F-SZuj7zOT0IfSjTS16cPhqx-Zsg.ttf
+File Name: C:\Downloaded Web Sites\guns.lol\s\onest\v9\gNMZW3F-SZuj7zOT0IfSjTS16cPhqx-Zsg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/onest/v9/gNMZW3F-SZuj7zOT0IfSjTS16cPhxx-Zsg.ttf
+File Name: C:\Downloaded Web Sites\guns.lol\s\onest\v9\gNMZW3F-SZuj7zOT0IfSjTS16cPhxx-Zsg.ttf
+Content Type: font/ttf
+
+Uri: https://guns.lol/niula
+File Name: C:\Downloaded Web Sites\guns.lol\niula.html
+Content Type: text/html
+
+Uri: https://guns.lol/_next/static/chunks/1329d575-137911efd96d5fd0.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\1329d575-137911efd96d5fd0.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/3200-0bec5a544f3cb4d8.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\3200-0bec5a544f3cb4d8.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/3794-5ebac7925c230024.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\3794-5ebac7925c230024.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/4564-83c32037d7a21f91.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\4564-83c32037d7a21f91.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/4bd1b696-6b5c0c72b0eadc5f.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\4bd1b696-6b5c0c72b0eadc5f.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/5263-2fa298a37e02e092.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\5263-2fa298a37e02e092.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/5395-2466bf56b469bbfb.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\5395-2466bf56b469bbfb.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/7231-a6ba8a6fa84d6971.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\7231-a6ba8a6fa84d6971.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/8500-27e7d9770d119ae1.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\8500-27e7d9770d119ae1.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/8542-dde2d9264548ff9e.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\8542-dde2d9264548ff9e.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/8830-a0e319418661af87.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\8830-a0e319418661af87.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/a3cd4a83-6ef1daaf9d8d561f.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\a3cd4a83-6ef1daaf9d8d561f.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/app/[username]/page-69c263f791452b24.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\app\[username]\page-69c263f791452b24.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/app/error-dc13c88cc31c11c2.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\app\error-dc13c88cc31c11c2.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/app/layout-96b33cc7b099134a.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\app\layout-96b33cc7b099134a.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/app/not-found-e9b2fade21a28241.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\app\not-found-e9b2fade21a28241.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/b536a0f1-5c52234ac76ab02c.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\b536a0f1-5c52234ac76ab02c.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/bd904a5c-aa6b2055d9135754.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\bd904a5c-aa6b2055d9135754.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/c15bf2b0-7d6c3f276061bcc4.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\c15bf2b0-7d6c3f276061bcc4.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/f6211eb1-fde3d3265b53e700.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\f6211eb1-fde3d3265b53e700.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/main-app-082cd9849c9757d5.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\main-app-082cd9849c9757d5.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/chunks/webpack-e38e3a25bd155262.js
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\chunks\webpack-e38e3a25bd155262.js
+Content Type: application/javascript
+
+Uri: https://guns.lol/_next/static/css/63408633f2b71c8c.css
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\css\63408633f2b71c8c.css
+Content Type: text/css
+
+Uri: https://guns.lol/_next/static/css/a10f7e19281e0a6d.css
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\css\a10f7e19281e0a6d.css
+Content Type: text/css
+
+Uri: https://guns.lol/_next/static/css/a2d5ff0bcb9e68cd.css
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\css\a2d5ff0bcb9e68cd.css
+Content Type: text/css
+
+Uri: https://guns.lol/_next/static/css/a75a360d5e4ba66c.css
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\css\a75a360d5e4ba66c.css
+Content Type: text/css
+
+Uri: https://guns.lol/_next/static/css/b4ebc5a9a3852224.css
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\css\b4ebc5a9a3852224.css
+Content Type: text/css
+
+Uri: https://guns.lol/_next/static/css/e75274dea6b02b03.css
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\css\e75274dea6b02b03.css
+Content Type: text/css
+
+Uri: https://guns.lol/_next/static/css/ed73ca37d26dcb37.css
+File Name: C:\Downloaded Web Sites\guns.lol\_next\static\css\ed73ca37d26dcb37.css
+Content Type: text/css
+
+Uri: https://r2.guns.lol/9ba4600f-da5c-470d-83d9-7af77343e993.png
+File Name: C:\Downloaded Web Sites\guns.lol\9ba4600f-da5c-470d-83d9-7af77343e993.png
+Content Type: image/png
+
+Uri: https://r2.guns.lol/dabfaafe-eb0a-4f40-9386-9acf6fd84783.webp
+File Name: C:\Downloaded Web Sites\guns.lol\dabfaafe-eb0a-4f40-9386-9acf6fd84783.webp
+Content Type: image/webp
+
+Uri: https://r2.guns.lol/e7e39abe-7bc3-46cd-8bab-cda4d95a2a49.jpg
+File Name: C:\Downloaded Web Sites\guns.lol\e7e39abe-7bc3-46cd-8bab-cda4d95a2a49.jpg
+Content Type: image/jpeg
+
+Uri: https://sa.guns.lol/latest.js
+File Name: C:\Downloaded Web Sites\guns.lol\latest.js
+Content Type: application/javascript
+
